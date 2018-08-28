@@ -1,0 +1,17 @@
+--2018-01-08 19:17:43--  http://192.168.1.100/port_status.shtml
+Connecting to 192.168.1.100:80... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+Reusing existing connection to 192.168.1.100:80.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Retrying.
+
+--2018-01-08 19:32:44--  (try: 2)  http://192.168.1.100/port_status.shtml
+Connecting to 192.168.1.100:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘port_status.shtml’
+
+     0K ..                                                      168K=0.01s
+
+2018-01-08 19:32:44 (168 KB/s) - ‘port_status.shtml’ saved [2584]
+
